@@ -1,0 +1,2 @@
+# Query-Management
+QUERY MANAGEMENT SYSTEM(OOP)
